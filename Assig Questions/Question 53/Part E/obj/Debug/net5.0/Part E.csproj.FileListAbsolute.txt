@@ -1,0 +1,16 @@
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\bin\Debug\net5.0\Part E.exe
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\bin\Debug\net5.0\Part E.deps.json
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\bin\Debug\net5.0\Part E.runtimeconfig.json
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\bin\Debug\net5.0\Part E.runtimeconfig.dev.json
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\bin\Debug\net5.0\Part E.dll
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\bin\Debug\net5.0\ref\Part E.dll
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\bin\Debug\net5.0\Part E.pdb
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\obj\Debug\net5.0\Part E.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\obj\Debug\net5.0\Part E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\obj\Debug\net5.0\Part E.AssemblyInfoInputs.cache
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\obj\Debug\net5.0\Part E.AssemblyInfo.cs
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\obj\Debug\net5.0\Part E.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\obj\Debug\net5.0\Part E.dll
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\obj\Debug\net5.0\ref\Part E.dll
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\obj\Debug\net5.0\Part E.pdb
+C:\Users\Talha\Desktop\Assignment-4\Assig Questions\Question 53\Part E\obj\Debug\net5.0\Part E.genruntimeconfig.cache
